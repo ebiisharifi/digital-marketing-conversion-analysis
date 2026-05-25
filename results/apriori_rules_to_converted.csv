@@ -1,0 +1,373 @@
+antecedent,consequent,support,confidence,lift
+"Purchase=Regular, Type=Conversion",Converted,0.0745,0.9613,1.0967
+"AdSpend=High, Gender=Female, Type=Conversion",Converted,0.0522,0.9587,1.0938
+"AdSpend=High, Gender=Female, Purchase=Loyal",Converted,0.0755,0.9557,1.0904
+"Loyalty=Gold, Type=Conversion",Converted,0.0803,0.9554,1.09
+"Gender=Female, Loyalty=Silver, Type=Conversion",Converted,0.0535,0.9532,1.0875
+"AdSpend=High, Gender=Female, Purchase=Regular",Converted,0.0554,0.9527,1.0869
+"AdSpend=High, Gender=Female, Loyalty=Gold",Converted,0.0596,0.9521,1.0862
+"AdSpend=High, Type=Conversion",Converted,0.0826,0.9511,1.0851
+"Gender=Female, Purchase=Loyal, Type=Conversion",Converted,0.0648,0.9505,1.0844
+"Age=Middle, Type=Conversion",Converted,0.0719,0.9473,1.0808
+"Income=Low, Type=Conversion",Converted,0.0799,0.9453,1.0785
+"AdSpend=High, Purchase=Loyal",Converted,0.1244,0.9449,1.0781
+"AdSpend=High, Purchase=Regular",Converted,0.0922,0.9437,1.0767
+"AdSpend=High, Loyalty=Gold",Converted,0.1014,0.943,1.0759
+"Purchase=Loyal, Type=Conversion",Converted,0.1013,0.943,1.0758
+"Age=Young, Type=Conversion",Converted,0.0589,0.942,1.0747
+"Gender=Female, Type=Conversion",Converted,0.1515,0.9417,1.0744
+"Channel=PPC, Type=Conversion",Converted,0.0525,0.9396,1.072
+"Gender=Female, Income=Medium, Type=Conversion",Converted,0.0534,0.9385,1.0707
+"AdSpend=High, Gender=Female, Income=High",Converted,0.0668,0.9385,1.0707
+"AdSpend=High, Gender=Female, Loyalty=Silver",Converted,0.0609,0.9383,1.0706
+"AdSpend=High, Channel=SEO",Converted,0.0611,0.9368,1.0688
+"Loyalty=Silver, Type=Conversion",Converted,0.0829,0.9364,1.0684
+"Loyalty=Gold, Purchase=Regular",Converted,0.0902,0.9352,1.067
+Type=Conversion,Converted,0.2424,0.9336,1.0651
+"Gender=Female, Loyalty=Gold, Purchase=Regular",Converted,0.0539,0.9329,1.0643
+"AdSpend=Medium, Type=Conversion",Converted,0.0759,0.9324,1.0638
+"AdSpend=High, Income=High",Converted,0.1047,0.9321,1.0635
+"AdSpend=Low, Gender=Female, Type=Conversion",Converted,0.0515,0.9321,1.0635
+"Gender=Female, Loyalty=Silver, Purchase=Regular",Converted,0.0546,0.9318,1.0631
+"AdSpend=High, Age=Elder",Converted,0.0525,0.9313,1.0625
+"AdSpend=High, Gender=Female, Income=Medium",Converted,0.0604,0.9306,1.0618
+"Channel=Referral, Type=Conversion",Converted,0.0517,0.9303,1.0614
+"Loyalty=Silver, Purchase=Regular",Converted,0.0916,0.9302,1.0613
+"AdSpend=High, Gender=Female",Converted,0.1842,0.93,1.061
+"AdSpend=High, Loyalty=Silver",Converted,0.0988,0.9294,1.0604
+"AdSpend=High, Age=Middle",Converted,0.0949,0.929,1.0599
+"Income=High, Type=Conversion",Converted,0.078,0.9286,1.0594
+"Income=Medium, Type=Conversion",Converted,0.0845,0.9273,1.058
+"Channel=Referral, Purchase=Regular",Converted,0.0601,0.9268,1.0574
+"AdSpend=High, Age=Middle, Gender=Female",Converted,0.0622,0.9257,1.0561
+"AdSpend=High, Age=Young",Converted,0.0729,0.9254,1.0558
+"AdSpend=High, Channel=Social Media",Converted,0.0558,0.9253,1.0557
+"Gender=Female, Loyalty=Gold, Purchase=Loyal",Converted,0.0737,0.9248,1.0551
+"Gender=Female, Income=High, Purchase=Loyal",Converted,0.0746,0.9241,1.0544
+"Gender=Female, Income=Medium, Loyalty=Gold",Converted,0.0609,0.9241,1.0543
+AdSpend=High,Converted,0.3011,0.9237,1.0538
+"AdSpend=High, Channel=Referral",Converted,0.0641,0.9227,1.0527
+"AdSpend=High, Channel=PPC",Converted,0.0636,0.9221,1.052
+"Age=Senior, Gender=Female, Loyalty=Gold",Converted,0.051,0.921,1.0508
+"Loyalty=Gold, Purchase=Loyal",Converted,0.1222,0.9209,1.0507
+"AdSpend=High, Income=Low",Converted,0.0984,0.9205,1.0502
+"Gender=Male, Type=Conversion",Converted,0.0909,0.9203,1.0499
+"AdSpend=High, Gender=Female, Income=Low",Converted,0.0571,0.9195,1.0491
+"Income=Medium, Loyalty=Gold",Converted,0.0994,0.9191,1.0486
+"AdSpend=High, Type=Consideration",Converted,0.0734,0.9186,1.0481
+"Channel=Social Media, Purchase=Regular",Converted,0.0521,0.9185,1.0479
+"AdSpend=High, Income=Medium",Converted,0.098,0.918,1.0474
+"AdSpend=Low, Type=Conversion",Converted,0.0839,0.9179,1.0473
+"Age=Young, Gender=Female, Purchase=Loyal",Converted,0.0503,0.9178,1.0471
+"Age=Middle, Purchase=Regular",Converted,0.0814,0.9169,1.0461
+"Income=High, Purchase=Regular",Converted,0.0925,0.9147,1.0436
+"Age=Young, Purchase=Regular",Converted,0.0668,0.9144,1.0432
+"AdSpend=High, Gender=Male",Converted,0.1169,0.914,1.0428
+"Gender=Male, Purchase=Regular",Converted,0.1089,0.914,1.0427
+"AdSpend=High, Type=Retention",Converted,0.0716,0.9139,1.0426
+"Channel=PPC, Purchase=Regular",Converted,0.057,0.9138,1.0426
+"Age=Elder, Loyalty=Gold",Converted,0.0542,0.9137,1.0424
+"Age=Senior, Gender=Female, Purchase=Loyal",Converted,0.0607,0.9135,1.0423
+"Channel=SEO, Loyalty=Gold",Converted,0.0578,0.913,1.0417
+"AdSpend=High, Age=Senior",Converted,0.0809,0.9113,1.0397
+"AdSpend=High, Channel=Email",Converted,0.0565,0.9113,1.0397
+"Gender=Female, Income=High, Purchase=Regular",Converted,0.0587,0.9109,1.0392
+"Income=High, Purchase=Loyal",Converted,0.1187,0.9108,1.0392
+"AdSpend=Medium, Purchase=Loyal",Converted,0.1201,0.9109,1.0392
+"Age=Senior, Type=Conversion",Converted,0.0676,0.9108,1.0391
+"Channel=PPC, Loyalty=Gold",Converted,0.0574,0.9107,1.039
+"Gender=Female, Income=Medium, Purchase=Regular",Converted,0.0535,0.9106,1.0389
+"Age=Young, Loyalty=Gold",Converted,0.0699,0.9104,1.0387
+"Age=Middle, Loyalty=Silver",Converted,0.0911,0.9101,1.0383
+"Loyalty=Bronze, Type=Conversion",Converted,0.0793,0.9096,1.0378
+Purchase=Regular,Converted,0.2726,0.9095,1.0377
+"AdSpend=High, Type=Awareness",Converted,0.0735,0.9088,1.0369
+"Gender=Female, Loyalty=Silver, Purchase=Loyal",Converted,0.0757,0.9085,1.0366
+"Income=Low, Purchase=Regular",Converted,0.0887,0.9079,1.0359
+"Channel=Referral, Purchase=Loyal",Converted,0.0774,0.9076,1.0355
+"Loyalty=Silver, Purchase=Loyal",Converted,0.1232,0.9071,1.0349
+"Age=Middle, Gender=Female, Loyalty=Silver",Converted,0.0571,0.9067,1.0345
+"Gender=Female, Purchase=Regular",Converted,0.1638,0.9066,1.0343
+"AdSpend=Medium, Gender=Female, Purchase=Loyal",Converted,0.074,0.9066,1.0343
+"Channel=SEO, Purchase=Loyal",Converted,0.07,0.9061,1.0338
+"Income=Medium, Purchase=Regular",Converted,0.0914,0.9058,1.0335
+"Gender=Male, Loyalty=Gold",Converted,0.1177,0.9058,1.0334
+"Gender=Female, Purchase=Loyal",Converted,0.2188,0.9058,1.0334
+"Channel=Referral, Income=High",Converted,0.0624,0.9056,1.0332
+"Age=Senior, Loyalty=Gold",Converted,0.0826,0.9055,1.0331
+"Age=Elder, Purchase=Loyal",Converted,0.0634,0.9054,1.0329
+"Channel=Referral, Loyalty=Gold",Converted,0.061,0.9054,1.0329
+"AdSpend=Medium, Loyalty=Gold",Converted,0.0966,0.9041,1.0315
+Loyalty=Gold,Converted,0.2926,0.9035,1.0308
+"Age=Young, Purchase=Loyal",Converted,0.0846,0.9027,1.0299
+"Age=Middle, Channel=SEO",Converted,0.051,0.9027,1.0298
+"AdSpend=High, Gender=Female, Loyalty=Bronze",Converted,0.0638,0.9027,1.0298
+"Channel=PPC, Purchase=Loyal",Converted,0.0729,0.9025,1.0296
+"AdSpend=Medium, Purchase=Regular",Converted,0.0887,0.9022,1.0293
+"Age=Middle, Purchase=Loyal",Converted,0.1129,0.9021,1.0292
+"Gender=Female, Loyalty=Gold",Converted,0.1749,0.902,1.0291
+"Channel=SEO, Loyalty=Silver",Converted,0.0586,0.9019,1.029
+Purchase=Loyal,Converted,0.3604,0.9018,1.0288
+"Gender=Female, Purchase=Loyal, Type=Retention",Converted,0.051,0.9007,1.0276
+"Loyalty=Gold, Type=Retention",Converted,0.07,0.9003,1.0272
+"Channel=Email, Loyalty=Gold",Converted,0.0573,0.8998,1.0266
+"AdSpend=High, Loyalty=Bronze",Converted,0.101,0.8998,1.0266
+"Gender=Female, Income=Medium, Purchase=Loyal",Converted,0.0752,0.8999,1.0266
+"Gender=Female, Income=Medium, Loyalty=Silver",Converted,0.0605,0.8996,1.0264
+"Gender=Male, Income=Low, Purchase=Loyal",Converted,0.0536,0.8994,1.0261
+"Gender=Female, Income=High, Loyalty=Silver",Converted,0.0648,0.8993,1.026
+"Age=Middle, Gender=Male",Converted,0.1014,0.8991,1.0258
+"Income=Medium, Purchase=Loyal",Converted,0.1191,0.8991,1.0257
+"Gender=Female, Income=High, Loyalty=Gold",Converted,0.06,0.8989,1.0255
+"Age=Senior, Purchase=Regular",Converted,0.0765,0.8987,1.0253
+"Age=Senior, Purchase=Loyal",Converted,0.0995,0.8984,1.025
+"Income=High, Loyalty=Gold",Converted,0.0959,0.8981,1.0247
+"AdSpend=Medium, Gender=Female, Loyalty=Gold",Converted,0.0584,0.8981,1.0246
+"Purchase=Regular, Type=Consideration",Converted,0.066,0.898,1.0245
+"Gender=Female, Income=Low, Purchase=Regular",Converted,0.0515,0.8976,1.0241
+"Age=Young, Loyalty=Silver",Converted,0.0734,0.8976,1.024
+"Age=Elder, Income=Medium",Converted,0.0535,0.8973,1.0237
+"Gender=Female, Loyalty=Silver",Converted,0.1856,0.8973,1.0237
+"Purchase=Loyal, Type=Retention",Converted,0.0871,0.897,1.0234
+"Channel=Email, Purchase=Loyal",Converted,0.0725,0.8964,1.0228
+"Age=Middle, Gender=Female, Purchase=Loyal",Converted,0.0701,0.8962,1.0224
+"Income=Low, Purchase=Loyal",Converted,0.1225,0.8958,1.022
+"Channel=Social Media, Purchase=Loyal",Converted,0.0676,0.8957,1.0219
+"Gender=Male, Purchase=Loyal",Converted,0.1416,0.8957,1.0219
+"Income=High, Loyalty=Silver",Converted,0.1017,0.8955,1.0217
+"Channel=Email, Loyalty=Silver",Converted,0.0595,0.8947,1.0208
+"Channel=PPC, Loyalty=Silver",Converted,0.0668,0.8945,1.0205
+"AdSpend=Medium, Channel=PPC",Converted,0.0571,0.8943,1.0203
+"AdSpend=Medium, Age=Middle",Converted,0.0835,0.8942,1.0202
+"Age=Middle, Channel=Referral",Converted,0.057,0.8941,1.0201
+"Income=Low, Loyalty=Silver",Converted,0.1036,0.8933,1.0192
+"Income=Low, Loyalty=Gold",Converted,0.0974,0.8933,1.0192
+"Channel=SEO, Purchase=Regular",Converted,0.0522,0.8932,1.019
+Loyalty=Silver,Converted,0.3041,0.8932,1.019
+"Gender=Female, Income=Low, Purchase=Loyal",Converted,0.0689,0.893,1.0189
+"Channel=Email, Purchase=Regular",Converted,0.0511,0.893,1.0188
+"Gender=Female, Income=Low, Loyalty=Silver",Converted,0.0604,0.8928,1.0186
+"Gender=Female, Purchase=Loyal, Type=Consideration",Converted,0.052,0.8927,1.0185
+"AdSpend=Medium, Channel=Referral",Converted,0.0665,0.8926,1.0184
+"Purchase=Regular, Type=Awareness",Converted,0.0665,0.8926,1.0184
+"Age=Middle, Income=Medium",Converted,0.0871,0.8924,1.0182
+"Age=Senior, Gender=Female, Income=High",Converted,0.0512,0.8913,1.0169
+"Purchase=New, Type=Conversion",Converted,0.0666,0.8913,1.0169
+"Age=Elder, Loyalty=Silver",Converted,0.0551,0.8909,1.0164
+"Income=Medium, Loyalty=Silver",Converted,0.0988,0.8906,1.0161
+"AdSpend=Medium, Gender=Male",Converted,0.1179,0.8905,1.0159
+"Channel=Email, Income=High",Converted,0.0549,0.8905,1.0159
+"Age=Middle, Loyalty=Gold",Converted,0.0859,0.8899,1.0153
+"AdSpend=Medium, Income=High",Converted,0.0948,0.8897,1.015
+"Channel=SEO, Income=Low",Converted,0.0604,0.8895,1.0148
+"AdSpend=Medium, Age=Elder",Converted,0.0532,0.8894,1.0147
+"Channel=Social Media, Loyalty=Gold",Converted,0.0592,0.8893,1.0146
+"Channel=Referral, Loyalty=Silver",Converted,0.0661,0.8891,1.0143
+"Age=Senior, Gender=Female, Loyalty=Silver",Converted,0.05,0.8889,1.0141
+"Age=Elder, Gender=Male",Converted,0.0609,0.8887,1.0139
+"AdSpend=Medium, Gender=Female, Purchase=Regular",Converted,0.0536,0.8882,1.0133
+"Channel=PPC, Gender=Female",Converted,0.111,0.888,1.0131
+"Age=Young, Income=High",Converted,0.0704,0.888,1.0131
+"Age=Senior, Gender=Female, Income=Low",Converted,0.0505,0.8879,1.013
+"Channel=PPC, Income=Medium",Converted,0.0584,0.8878,1.0129
+"Gender=Male, Loyalty=Silver",Converted,0.1185,0.8868,1.0118
+"Age=Middle, Gender=Female, Income=High",Converted,0.0558,0.8867,1.0116
+"Channel=PPC, Income=Low",Converted,0.0576,0.8865,1.0115
+"Age=Middle, Income=High",Converted,0.0891,0.8857,1.0105
+"Channel=Social Media, Loyalty=Silver",Converted,0.0531,0.8854,1.0102
+Age=Middle,Converted,0.2642,0.8853,1.01
+"Purchase=Loyal, Type=Consideration",Converted,0.0887,0.8853,1.01
+"Age=Middle, Channel=Social Media",Converted,0.0511,0.8853,1.01
+"Channel=Email, Gender=Male",Converted,0.0665,0.8852,1.0099
+"AdSpend=Medium, Loyalty=Silver",Converted,0.1047,0.8849,1.0096
+"AdSpend=Low, Purchase=Regular",Converted,0.0916,0.8842,1.0088
+"Age=Middle, Gender=Female, Income=Medium",Converted,0.0544,0.8841,1.0087
+"Purchase=Regular, Type=Retention",Converted,0.0656,0.8838,1.0084
+"Gender=Female, Loyalty=Bronze, Purchase=Loyal",Converted,0.0693,0.8836,1.0081
+"Channel=Referral, Gender=Male",Converted,0.0736,0.8831,1.0075
+"Channel=Referral, Gender=Female",Converted,0.1161,0.8831,1.0075
+Channel=Referral,Converted,0.1898,0.8831,1.0075
+"Loyalty=Silver, Type=Awareness",Converted,0.0716,0.8829,1.0073
+Channel=PPC,Converted,0.1826,0.8828,1.0072
+"Gender=Female, Income=High",Converted,0.1846,0.8828,1.0072
+"Age=Senior, Channel=Referral",Converted,0.0526,0.8826,1.007
+"Age=Senior, Gender=Female",Converted,0.1496,0.8821,1.0064
+"Income=High, Type=Retention",Converted,0.0729,0.882,1.0063
+"Gender=Female, Income=Low, Loyalty=Gold",Converted,0.054,0.8816,1.0059
+Income=High,Converted,0.294,0.8816,1.0058
+AdSpend=Medium,Converted,0.2941,0.8816,1.0058
+"AdSpend=Low, Gender=Female, Purchase=Regular",Converted,0.0548,0.8813,1.0055
+"AdSpend=Medium, Gender=Female, Income=High",Converted,0.0594,0.8813,1.0054
+"Channel=Referral, Income=Low",Converted,0.063,0.8811,1.0053
+"AdSpend=Medium, Age=Young",Converted,0.0729,0.8807,1.0048
+"Loyalty=Gold, Type=Consideration",Converted,0.07,0.8805,1.0046
+"Gender=Male, Income=Low",Converted,0.1225,0.8805,1.0046
+"Age=Middle, Gender=Female, Loyalty=Gold",Converted,0.0522,0.88,1.004
+"AdSpend=Low, Gender=Female, Loyalty=Silver",Converted,0.0621,0.8796,1.0036
+"Gender=Male, Income=High",Converted,0.1094,0.8794,1.0033
+"Loyalty=Silver, Type=Consideration",Converted,0.0752,0.8788,1.0027
+"AdSpend=Medium, Income=Medium",Converted,0.1022,0.8786,1.0024
+"Age=Young, Gender=Male",Converted,0.0877,0.8786,1.0024
+"AdSpend=Medium, Channel=Social Media",Converted,0.0569,0.8784,1.0021
+"Channel=Email, Income=Medium",Converted,0.0569,0.8784,1.0021
+"Age=Senior, Income=High",Converted,0.081,0.878,1.0018
+"Channel=Social Media, Income=Medium",Converted,0.0566,0.8779,1.0016
+"Gender=Female, Income=Medium",Converted,0.1771,0.8779,1.0016
+"Channel=SEO, Gender=Male",Converted,0.0665,0.8779,1.0016
+"Age=Middle, Income=Low",Converted,0.088,0.8778,1.0015
+Age=Elder,Converted,0.155,0.8776,1.0012
+"Purchase=Loyal, Type=Awareness",Converted,0.0833,0.8775,1.0011
+"AdSpend=Medium, Gender=Female, Loyalty=Silver",Converted,0.0626,0.8774,1.001
+"Loyalty=Bronze, Purchase=Loyal",Converted,0.1149,0.8769,1.0005
+Gender=Male,Converted,0.3465,0.8769,1.0005
+"AdSpend=Medium, Income=Low",Converted,0.0971,0.877,1.0005
+"Age=Middle, Gender=Female",Converted,0.1629,0.8769,1.0004
+Channel=SEO,Converted,0.1699,0.8768,1.0003
+Gender=Female,Converted,0.53,0.8762,0.9997
+"Channel=SEO, Gender=Female",Converted,0.1034,0.8761,0.9995
+"Loyalty=Gold, Type=Awareness",Converted,0.0724,0.8759,0.9994
+"AdSpend=Medium, Gender=Female",Converted,0.1762,0.8758,0.9992
+"AdSpend=Medium, Gender=Female, Income=Low",Converted,0.0563,0.8755,0.9988
+"AdSpend=Medium, Channel=Email",Converted,0.0596,0.8752,0.9986
+"Channel=PPC, Income=High",Converted,0.0666,0.8752,0.9985
+Income=Medium,Converted,0.2918,0.8751,0.9984
+Age=Young,Converted,0.2111,0.8751,0.9984
+"AdSpend=High, Gender=Female, Purchase=New",Converted,0.0534,0.875,0.9983
+"Gender=Male, Type=Awareness",Converted,0.0848,0.8748,0.9981
+"Channel=PPC, Gender=Male",Converted,0.0716,0.8748,0.9981
+"Age=Senior, Channel=PPC",Converted,0.0524,0.8747,0.998
+"AdSpend=High, Purchase=New",Converted,0.0845,0.8745,0.9977
+"Age=Middle, Channel=PPC",Converted,0.0546,0.874,0.9971
+"Age=Senior, Loyalty=Silver",Converted,0.0845,0.8734,0.9964
+"Age=Senior, Income=Low",Converted,0.086,0.8731,0.9961
+"Age=Young, Income=Low",Converted,0.0688,0.873,0.996
+"Income=Medium, Type=Consideration",Converted,0.0678,0.8728,0.9958
+Income=Low,Converted,0.2908,0.8728,0.9958
+"Age=Young, Gender=Female",Converted,0.1234,0.8727,0.9956
+"Loyalty=Silver, Type=Retention",Converted,0.0744,0.8724,0.9954
+"AdSpend=Medium, Age=Senior, Gender=Female",Converted,0.0519,0.8718,0.9947
+"Gender=Female, Purchase=Loyal, Type=Awareness",Converted,0.051,0.8718,0.9946
+"Age=Elder, Income=High",Converted,0.0535,0.8717,0.9945
+"Income=Low, Type=Awareness",Converted,0.0695,0.8715,0.9943
+"Channel=Social Media, Gender=Female",Converted,0.0966,0.8715,0.9943
+"Channel=SEO, Income=High",Converted,0.054,0.871,0.9937
+"AdSpend=Medium, Type=Consideration",Converted,0.0725,0.8709,0.9936
+"Gender=Male, Income=Medium",Converted,0.1146,0.8708,0.9935
+"Age=Middle, Channel=Email",Converted,0.0505,0.8707,0.9934
+"AdSpend=Medium, Gender=Female, Income=Medium",Converted,0.0606,0.8707,0.9934
+"Age=Elder, Gender=Female",Converted,0.0941,0.8705,0.9932
+Channel=Email,Converted,0.1694,0.8703,0.9929
+"Gender=Male, Type=Retention",Converted,0.085,0.8696,0.9921
+"Channel=SEO, Income=Medium",Converted,0.0555,0.8689,0.9913
+"AdSpend=Low, Loyalty=Silver",Converted,0.1006,0.8684,0.9908
+Channel=Social Media,Converted,0.1649,0.8683,0.9907
+"Age=Middle, Type=Consideration",Converted,0.0643,0.8682,0.9906
+Age=Senior,Converted,0.2461,0.8678,0.9901
+"Gender=Female, Income=Low",Converted,0.1683,0.8673,0.9895
+"Loyalty=Bronze, Purchase=Regular",Converted,0.0907,0.8663,0.9884
+"AdSpend=Medium, Channel=SEO",Converted,0.054,0.8657,0.9877
+"AdSpend=Medium, Age=Senior",Converted,0.0845,0.8656,0.9875
+"Channel=Social Media, Income=High",Converted,0.0561,0.8651,0.987
+"Age=Young, Income=Medium",Converted,0.072,0.8649,0.9867
+"AdSpend=Low, Loyalty=Gold",Converted,0.0946,0.8642,0.9859
+"Channel=Referral, Income=Medium",Converted,0.0644,0.8641,0.9858
+"Channel=Social Media, Gender=Male",Converted,0.0683,0.8639,0.9857
+"Gender=Female, Type=Consideration",Converted,0.1268,0.8637,0.9854
+"Age=Middle, Type=Awareness",Converted,0.0658,0.8637,0.9854
+"AdSpend=Medium, Type=Awareness",Converted,0.0729,0.8637,0.9854
+"Channel=Social Media, Income=Low",Converted,0.0521,0.8616,0.983
+"AdSpend=Medium, Type=Retention",Converted,0.0729,0.8612,0.9825
+"Channel=Email, Gender=Female",Converted,0.1029,0.8609,0.9822
+"Age=Middle, Type=Retention",Converted,0.0624,0.8603,0.9816
+"Gender=Female, Loyalty=Bronze, Purchase=Regular",Converted,0.0553,0.8599,0.9811
+"Age=Middle, Gender=Female, Income=Low",Converted,0.0527,0.8595,0.9806
+"AdSpend=Low, Gender=Female, Loyalty=Gold",Converted,0.0569,0.8585,0.9795
+Type=Retention,Converted,0.2089,0.8582,0.9792
+"Income=High, Type=Consideration",Converted,0.0719,0.8582,0.9791
+"Income=High, Type=Awareness",Converted,0.0712,0.8571,0.9779
+"Channel=Referral, Loyalty=Bronze",Converted,0.0626,0.8564,0.9771
+"Age=Middle, Loyalty=Bronze",Converted,0.0872,0.8564,0.9771
+"AdSpend=Low, Gender=Female, Purchase=Loyal",Converted,0.0693,0.8563,0.9769
+"Age=Senior, Type=Consideration",Converted,0.0595,0.8561,0.9767
+"Income=Medium, Type=Retention",Converted,0.0676,0.856,0.9766
+"AdSpend=Medium, Loyalty=Bronze",Converted,0.0927,0.8558,0.9764
+Type=Awareness,Converted,0.2126,0.8556,0.9762
+Type=Consideration,Converted,0.2126,0.8556,0.9762
+"Age=Senior, Type=Awareness",Converted,0.0575,0.8534,0.9737
+"Age=Senior, Income=Medium",Converted,0.0791,0.852,0.972
+"Income=High, Loyalty=Bronze",Converted,0.0964,0.8519,0.972
+"AdSpend=Medium, Gender=Female, Loyalty=Bronze",Converted,0.0553,0.8516,0.9716
+"Gender=Female, Loyalty=Silver, Purchase=New",Converted,0.0553,0.8516,0.9716
+"AdSpend=Low, Purchase=Loyal",Converted,0.1159,0.8512,0.9712
+"Gender=Female, Income=High, Loyalty=Bronze",Converted,0.0599,0.8508,0.9707
+"Gender=Female, Type=Retention",Converted,0.1239,0.8506,0.9705
+"Age=Young, Type=Awareness",Converted,0.0532,0.8486,0.9682
+"Age=Senior, Type=Retention",Converted,0.0615,0.8483,0.9678
+"Loyalty=Gold, Purchase=New",Converted,0.0801,0.8468,0.9661
+"Age=Senior, Gender=Male",Converted,0.0965,0.8465,0.9658
+"Channel=PPC, Loyalty=Bronze",Converted,0.0585,0.8448,0.9638
+"Channel=Email, Income=Low",Converted,0.0576,0.8443,0.9633
+"Age=Young, Type=Consideration",Converted,0.0515,0.8443,0.9632
+"Age=Middle, Gender=Female, Loyalty=Bronze",Converted,0.0535,0.8442,0.9631
+"Gender=Male, Type=Consideration",Converted,0.0859,0.844,0.9629
+"Gender=Female, Type=Awareness",Converted,0.1279,0.8434,0.9622
+"Loyalty=Silver, Purchase=New",Converted,0.0892,0.841,0.9595
+"Income=Medium, Type=Awareness",Converted,0.0719,0.8394,0.9577
+"Gender=Male, Loyalty=Bronze",Converted,0.1103,0.8384,0.9565
+"Income=Low, Type=Consideration",Converted,0.073,0.8379,0.9559
+"Income=Low, Type=Retention",Converted,0.0684,0.8364,0.9542
+"AdSpend=Low, Channel=PPC",Converted,0.0619,0.8361,0.954
+"AdSpend=Low, Gender=Female, Income=Medium",Converted,0.0561,0.8346,0.9522
+"AdSpend=Low, Channel=Referral",Converted,0.0591,0.8342,0.9518
+"AdSpend=Low, Age=Middle",Converted,0.0859,0.8337,0.9512
+Loyalty=Bronze,Converted,0.2797,0.8335,0.951
+"Gender=Female, Loyalty=Bronze",Converted,0.1695,0.8304,0.9474
+"AdSpend=Low, Age=Senior",Converted,0.0808,0.8303,0.9473
+"Income=Low, Loyalty=Bronze",Converted,0.0897,0.8301,0.947
+"Channel=Social Media, Loyalty=Bronze",Converted,0.0525,0.83,0.947
+"AdSpend=Low, Income=Medium",Converted,0.0915,0.8299,0.9469
+"AdSpend=Low, Gender=Male",Converted,0.1118,0.8285,0.9453
+"AdSpend=Low, Gender=Female, Income=High",Converted,0.0585,0.8283,0.945
+"AdSpend=Low, Channel=SEO",Converted,0.0548,0.828,0.9446
+"Channel=PPC, Purchase=New",Converted,0.0527,0.8275,0.944
+"Gender=Female, Income=Low, Loyalty=Bronze",Converted,0.0539,0.8273,0.9438
+"Age=Middle, Purchase=New",Converted,0.07,0.8272,0.9437
+AdSpend=Low,Converted,0.2812,0.8263,0.9427
+"Age=Senior, Loyalty=Bronze",Converted,0.079,0.8261,0.9425
+"AdSpend=Low, Channel=Email",Converted,0.0532,0.8256,0.9419
+"AdSpend=Low, Gender=Female",Converted,0.1695,0.8248,0.941
+"AdSpend=Medium, Purchase=New",Converted,0.0853,0.8247,0.9409
+"AdSpend=Low, Income=Low",Converted,0.0953,0.8247,0.9409
+"AdSpend=Low, Income=High",Converted,0.0945,0.8244,0.9406
+"AdSpend=Low, Age=Middle, Gender=Female",Converted,0.0527,0.8226,0.9385
+"Age=Young, Loyalty=Bronze",Converted,0.0679,0.8202,0.9358
+"AdSpend=Low, Age=Young",Converted,0.0654,0.8197,0.9353
+"Income=Medium, Loyalty=Bronze",Converted,0.0936,0.8186,0.9339
+"Channel=SEO, Loyalty=Bronze",Converted,0.0535,0.8168,0.9319
+"Channel=Email, Loyalty=Bronze",Converted,0.0526,0.8159,0.9309
+"Gender=Male, Purchase=New",Converted,0.096,0.8144,0.9292
+"Income=Medium, Purchase=New",Converted,0.0813,0.8125,0.927
+"Gender=Female, Income=Medium, Loyalty=Bronze",Converted,0.0558,0.8124,0.9269
+"AdSpend=Low, Gender=Female, Income=Low",Converted,0.0549,0.8115,0.9258
+"Income=High, Purchase=New",Converted,0.0828,0.8113,0.9256
+Purchase=New,Converted,0.2435,0.81,0.9241
+"Loyalty=Bronze, Type=Awareness",Converted,0.0686,0.8097,0.9238
+"Loyalty=Bronze, Type=Consideration",Converted,0.0674,0.8081,0.922
+"Gender=Female, Purchase=New",Converted,0.1475,0.8071,0.9208
+"Channel=Referral, Purchase=New",Converted,0.0522,0.8069,0.9207
+"Income=Low, Purchase=New",Converted,0.0795,0.8061,0.9197
+"AdSpend=Low, Channel=Social Media",Converted,0.0522,0.8054,0.9189
+"Loyalty=Bronze, Type=Retention",Converted,0.0645,0.8025,0.9156
+"Gender=Female, Income=High, Purchase=New",Converted,0.0512,0.8023,0.9154
+"Age=Young, Purchase=New",Converted,0.0597,0.802,0.915
+"AdSpend=Low, Type=Retention",Converted,0.0644,0.8009,0.9138
+"Age=Senior, Purchase=New",Converted,0.0701,0.7991,0.9117
+"AdSpend=Low, Type=Awareness",Converted,0.0663,0.7958,0.9079
+"Purchase=New, Type=Awareness",Converted,0.0629,0.7946,0.9066
+"AdSpend=Low, Type=Consideration",Converted,0.0668,0.7818,0.892
+"Purchase=New, Type=Retention",Converted,0.0561,0.7795,0.8893
+"Purchase=New, Type=Consideration",Converted,0.0579,0.7742,0.8833
+"AdSpend=Low, Loyalty=Bronze",Converted,0.086,0.7478,0.8532
+"Loyalty=Bronze, Purchase=New",Converted,0.0741,0.7422,0.8468
+"AdSpend=Low, Gender=Female, Loyalty=Bronze",Converted,0.0505,0.7359,0.8396
+"AdSpend=Low, Purchase=New",Converted,0.0737,0.7329,0.8362
