@@ -18,21 +18,6 @@ The project follows the Knowledge Discovery in Databases (KDD) framework:
 4. Predictive modeling (Logistic Regression, Decision Tree, Random Forest)
 5. Apriori association rule mining
 
-## Repository Structure
-
-```
-.
-├── data/
-│   └── digital_marketing_campaign.csv         # 8,000 rows, 20 columns
-├── notebooks/
-│   └── digital_marketing_conversion_analysis.ipynb
-├── figures/                                    # All generated plots
-├── results/                                    # CSV outputs (stats, rules, model comparison)
-├── analysis.py                                 # Single-file Python script version
-├── requirements.txt
-└── README.md
-```
-
 ## Dataset
 
 - 8,000 customer records, 20 attributes
