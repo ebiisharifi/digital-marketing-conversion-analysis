@@ -2,6 +2,10 @@
 
 End-to-end data mining project on an 8,000-record digital marketing dataset. The goal is to identify the customer behaviors and campaign characteristics that drive conversions, using a mix of exploratory analysis, predictive modeling, and association rule mining.
 
+## A Note on Development
+
+This project reflects my background in business analytics and data mining. The methodology, choice of techniques, evaluation criteria, and  interpretation of findings are my own. I used Claude Code to assist with the Python implementation, and visualization details, which let me focus on the analytical reasoning rather than syntax.
+
 ## Project Overview
 
 The dataset contains demographic data, marketing campaign metrics, customer engagement signals, and historical purchase information. The target variable is binary (Conversion: 1 = converted, 0 = not converted). The class is imbalanced (about 87.6% converted), so the analysis emphasizes lift and ROC-AUC alongside raw accuracy.
