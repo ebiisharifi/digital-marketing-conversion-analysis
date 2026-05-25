@@ -52,10 +52,8 @@ plt.rcParams["savefig.bbox"] = "tight"
 
 RANDOM_STATE = 42
 
-
-# ---------------------------------------------------------------------------
 # 1. Load and clean the data
-# ---------------------------------------------------------------------------
+
 
 def load_data(path):
     """Load the dataset and drop columns that are not useful for analysis."""
@@ -85,9 +83,8 @@ def basic_data_checks(df):
     print(df.head())
 
 
-# ---------------------------------------------------------------------------
 # 2. Descriptive analysis
-# ---------------------------------------------------------------------------
+
 
 def descriptive_statistics(df):
     """Save descriptive statistics for numeric variables to a CSV."""
@@ -151,10 +148,7 @@ def plot_categorical_distributions(df):
     plt.close()
     print(f"Saved: {out_path}")
 
-
-# ---------------------------------------------------------------------------
 # 3. Target variable (Conversion) analysis
-# ---------------------------------------------------------------------------
 
 def conversion_overview(df):
     """Class balance + conversion rate broken down by each categorical."""
@@ -258,10 +252,7 @@ def correlation_heatmap(df):
     print(target_corr.round(3).to_string())
     return target_corr
 
-
-# ---------------------------------------------------------------------------
 # 4. Predictive analysis
-# ---------------------------------------------------------------------------
 
 def prepare_features(df):
     """One-hot encode categoricals and return X (features) and y (target)."""
@@ -406,10 +397,7 @@ def run_predictive_models(df):
 
     return summary, importance
 
-
-# ---------------------------------------------------------------------------
 # 5. Apriori association rule mining (manual implementation)
-# ---------------------------------------------------------------------------
 
 def discretize_for_apriori(df):
     """Convert numeric variables into bins, return a list of transactions
@@ -602,9 +590,7 @@ def run_apriori(df, min_support=0.05, min_confidence=0.65):
     return pd.DataFrame()
 
 
-# ---------------------------------------------------------------------------
 # Main
-# ---------------------------------------------------------------------------
 
 def main():
     df = load_data(DATA_PATH)
